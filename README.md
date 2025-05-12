@@ -13,4 +13,4 @@
 - GitHub
 
 ### 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/jhosue-acevedo-69109819a/) • [Email](jhosueeliab2@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jhosue-acevedo-69109819a/) 
