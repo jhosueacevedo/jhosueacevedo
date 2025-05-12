@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋 I'm Jhosue
 
-<!--
-**jhosueacevedo/jhosueacevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Industrial Engineer with a passion for data-driven decisions  
+📊 Specializing in Power BI, Excel, and data visualization  
+📚 Currently pursuing an MBA in Business Analytics  
+💼 Open to internship opportunities in data analytics & BI  
+🌍 Bilingual: English 🇺🇸 & Spanish 🇨🇴
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Power BI | Excel | Tableau
+- Python (Pandas, Matplotlib)
+- JupyterLab
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me
+[LinkedIn](https://www.linkedin.com/in/jhosue-acevedo-69109819a/) • [Email](jhosueeliab2@gmail.com)
